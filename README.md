@@ -14,11 +14,12 @@
 
 # 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=umutarsln&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="umutarsln" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutarsln&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="umutarsln" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=umutarsln&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="umutarsln" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umutarsln&theme=dark&hide_border=false" alt="umutarsln" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutarsln&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="umutarsln" /></p>
+
 
 
 ## 🏆 GitHub Trophies
